@@ -4,3 +4,5 @@ A simple Maven app used to test the initial Jenkins configuration before going o
 
 foo bar baz qux
 
+yada yada yada
+
